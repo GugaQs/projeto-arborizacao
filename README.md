@@ -28,4 +28,4 @@ Este projeto está sob a licença **MIT**. Sinta-se à vontade para colaborar e 
 
 📧 **Contato:** Caso tenha dúvidas ou sugestões, entre em contato com a equipe do projeto.
 
-🌎 **GitHub Repository:** 
+🌎 **GitHub Repository:** [Acesse aqui](https://github.com/GugaQs/projeto-arborizacao)
